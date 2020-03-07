@@ -1,0 +1,5 @@
+## Don't commit .DS_Store if it exists
+.DS_Store
+
+## Don't commit secrets.txt file
+secrets.txt
